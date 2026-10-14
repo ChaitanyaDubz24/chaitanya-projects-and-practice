@@ -1,4 +1,4 @@
-# Chaitanya's Portfolio & [LINK TO MY INTERACTIVE 8-BIT PORTFOLIO](https://chaitanyadubz24.github.io/chaitanya-projects-and-practice/personal-website.html)
+# [PLAY MY INTERACTIVE 8-BIT PORTFOLIO!](https://chaitanyadubz24.github.io/chaitanya-projects-and-practice/personal-website.html)
 
 [![Play the portfolio](https://img.shields.io/badge/▶_PLAY_THE_PORTFOLIO-CD__PORT-4dff7a?style=for-the-badge&labelColor=000000)](https://chaitanyadubz24.github.io/chaitanya-projects-and-practice/personal-website.html)
 
