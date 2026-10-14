@@ -1,6 +1,10 @@
-# Chaitanya's Portfolio & [LINK TO PERSONAL WEBSITE](https://chaitanyadubz24.github.io/chaitanya-projects-and-practice/personal-website.html)
+# Chaitanya's Portfolio & [LINK TO MY INTERACTIVE 8-BIT PORTFOLIO](https://chaitanyadubz24.github.io/chaitanya-projects-and-practice/personal-website.html)
 
-A collection of my work in software, electronics, and mechanical design. I'm a 17 year old second year Mechatronics Engineering student at the University of Waterloo, and most of what I build sits where those three areas meet, from full software products to physical robots to CAD. This repository brings that work together in one place.
+[![Play the portfolio](https://img.shields.io/badge/▶_PLAY_THE_PORTFOLIO-CD__PORT-4dff7a?style=for-the-badge&labelColor=000000)](https://chaitanyadubz24.github.io/chaitanya-projects-and-practice/personal-website.html)
+
+My portfolio is an 8-bit console. Insert the cartridge, blow on it when it glitches, then step through rifts into the real rooms where each project was built. There are hidden secrets in every room, a goose game, and a 1-in-50 chance the whole thing breaks on purpose!
+
+Aside from that, my GitHub is a collection of my work in software, electronics, and mechanical design. I'm a 17 year old second year Mechatronics Engineering student at the University of Waterloo, and most of what I build sits where those three areas meet, from full software products to physical robots to CAD. This repository brings that work together in one place.
 
 ## What's Inside
 
