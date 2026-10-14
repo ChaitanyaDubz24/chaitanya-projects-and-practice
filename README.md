@@ -1,4 +1,4 @@
-# Chaitanya's Portfolio & [LINK TO WEBSITE](https://chaitanyadubz24.github.io/chaitanya-projects-and-practice/personal-website.html)
+# Chaitanya's Portfolio & [LINK TO PERSONAL WEBSITE](https://chaitanyadubz24.github.io/chaitanya-projects-and-practice/personal-website.html)
 
 A collection of my work in software, electronics, and mechanical design. I'm a 17 year old second year Mechatronics Engineering student at the University of Waterloo, and most of what I build sits where those three areas meet, from full software products to physical robots to CAD. This repository brings that work together in one place.
 
